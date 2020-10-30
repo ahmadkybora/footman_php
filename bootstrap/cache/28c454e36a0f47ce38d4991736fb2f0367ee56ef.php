@@ -1,0 +1,1 @@
+<?php /**PATH D:\xampp\htdocs\footman_php\resources\views//panel/categories/index.blade.php ENDPATH**/ ?>
